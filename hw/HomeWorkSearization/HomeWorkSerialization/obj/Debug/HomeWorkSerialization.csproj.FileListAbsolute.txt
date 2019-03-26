@@ -1,0 +1,7 @@
+C:\Users\azat\source\repos\HomeWorkSerialization\HomeWorkSerialization\bin\Debug\HomeWorkSerialization.exe.config
+C:\Users\azat\source\repos\HomeWorkSerialization\HomeWorkSerialization\bin\Debug\HomeWorkSerialization.exe
+C:\Users\azat\source\repos\HomeWorkSerialization\HomeWorkSerialization\bin\Debug\HomeWorkSerialization.pdb
+C:\Users\azat\source\repos\HomeWorkSerialization\HomeWorkSerialization\obj\Debug\HomeWorkSerialization.csprojAssemblyReference.cache
+C:\Users\azat\source\repos\HomeWorkSerialization\HomeWorkSerialization\obj\Debug\HomeWorkSerialization.csproj.CoreCompileInputs.cache
+C:\Users\azat\source\repos\HomeWorkSerialization\HomeWorkSerialization\obj\Debug\HomeWorkSerialization.exe
+C:\Users\azat\source\repos\HomeWorkSerialization\HomeWorkSerialization\obj\Debug\HomeWorkSerialization.pdb

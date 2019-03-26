@@ -1,0 +1,11 @@
+C:\Users\azat\source\repos\HomeWorkXmlAndJson\HomeWorkXmlAndJson\bin\Debug\HomeWorkXmlAndJson.exe.config
+C:\Users\azat\source\repos\HomeWorkXmlAndJson\HomeWorkXmlAndJson\bin\Debug\HomeWorkXmlAndJson.exe
+C:\Users\azat\source\repos\HomeWorkXmlAndJson\HomeWorkXmlAndJson\bin\Debug\HomeWorkXmlAndJson.pdb
+C:\Users\azat\source\repos\HomeWorkXmlAndJson\HomeWorkXmlAndJson\bin\Debug\Newtonsoft.Json.dll
+C:\Users\azat\source\repos\HomeWorkXmlAndJson\HomeWorkXmlAndJson\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\azat\source\repos\HomeWorkXmlAndJson\HomeWorkXmlAndJson\bin\Debug\Newtonsoft.Json.xml
+C:\Users\azat\source\repos\HomeWorkXmlAndJson\HomeWorkXmlAndJson\obj\Debug\HomeWorkXmlAndJson.csprojAssemblyReference.cache
+C:\Users\azat\source\repos\HomeWorkXmlAndJson\HomeWorkXmlAndJson\obj\Debug\HomeWorkXmlAndJson.csproj.CoreCompileInputs.cache
+C:\Users\azat\source\repos\HomeWorkXmlAndJson\HomeWorkXmlAndJson\obj\Debug\HomeWorkXmlAndJson.csproj.CopyComplete
+C:\Users\azat\source\repos\HomeWorkXmlAndJson\HomeWorkXmlAndJson\obj\Debug\HomeWorkXmlAndJson.exe
+C:\Users\azat\source\repos\HomeWorkXmlAndJson\HomeWorkXmlAndJson\obj\Debug\HomeWorkXmlAndJson.pdb
