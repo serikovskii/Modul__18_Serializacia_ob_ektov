@@ -1,0 +1,11 @@
+C:\Users\azat\source\repos\PracticeSerializer\SerializConsolAppNew\bin\Debug\SerializConsolAppNew.exe.config
+C:\Users\azat\source\repos\PracticeSerializer\SerializConsolAppNew\bin\Debug\SerializConsolAppNew.exe
+C:\Users\azat\source\repos\PracticeSerializer\SerializConsolAppNew\bin\Debug\SerializConsolAppNew.pdb
+C:\Users\azat\source\repos\PracticeSerializer\SerializConsolAppNew\bin\Debug\PracticeSerializer.exe
+C:\Users\azat\source\repos\PracticeSerializer\SerializConsolAppNew\bin\Debug\PracticeSerializer.pdb
+C:\Users\azat\source\repos\PracticeSerializer\SerializConsolAppNew\bin\Debug\PracticeSerializer.exe.config
+C:\Users\azat\source\repos\PracticeSerializer\SerializConsolAppNew\obj\Debug\SerializConsolAppNew.csprojAssemblyReference.cache
+C:\Users\azat\source\repos\PracticeSerializer\SerializConsolAppNew\obj\Debug\SerializConsolAppNew.csproj.CoreCompileInputs.cache
+C:\Users\azat\source\repos\PracticeSerializer\SerializConsolAppNew\obj\Debug\SerializConsolAppNew.csproj.CopyComplete
+C:\Users\azat\source\repos\PracticeSerializer\SerializConsolAppNew\obj\Debug\SerializConsolAppNew.exe
+C:\Users\azat\source\repos\PracticeSerializer\SerializConsolAppNew\obj\Debug\SerializConsolAppNew.pdb

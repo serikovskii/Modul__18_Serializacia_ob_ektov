@@ -1,0 +1,7 @@
+C:\Users\azat\source\repos\PracticeSerializer\PracticeSerializer\bin\Debug\PracticeSerializer.exe.config
+C:\Users\azat\source\repos\PracticeSerializer\PracticeSerializer\bin\Debug\PracticeSerializer.exe
+C:\Users\azat\source\repos\PracticeSerializer\PracticeSerializer\bin\Debug\PracticeSerializer.pdb
+C:\Users\azat\source\repos\PracticeSerializer\PracticeSerializer\obj\Debug\PracticeSerializer.csprojAssemblyReference.cache
+C:\Users\azat\source\repos\PracticeSerializer\PracticeSerializer\obj\Debug\PracticeSerializer.csproj.CoreCompileInputs.cache
+C:\Users\azat\source\repos\PracticeSerializer\PracticeSerializer\obj\Debug\PracticeSerializer.exe
+C:\Users\azat\source\repos\PracticeSerializer\PracticeSerializer\obj\Debug\PracticeSerializer.pdb
