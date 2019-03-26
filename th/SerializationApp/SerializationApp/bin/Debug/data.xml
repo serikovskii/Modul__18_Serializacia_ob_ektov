@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<Person xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>526674cf-7628-4fc6-9c97-1757e22bb607</Id>
+  <FullName>П.П Керсанов</FullName>
+  <Age>46</Age>
+  <BirthDate>1956-05-06T00:00:00</BirthDate>
+</Person>
